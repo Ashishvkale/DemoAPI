@@ -1,0 +1,88 @@
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\appsettings.json
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Demo API.exe
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Demo API.deps.json
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Demo API.runtimeconfig.json
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Demo API.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Demo API.pdb
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.csproj.AssemblyReference.cache
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.AssemblyInfoInputs.cache
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.AssemblyInfo.cs
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.csproj.CoreCompileInputs.cache
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets\msbuild.Demo API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets\msbuild.build.Demo API.props
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Demo API.props
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Demo API.props
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\scopedcss\bundle\Demo API.styles.css
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.csproj.CopyComplete
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\refint\Demo API.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.pdb
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.genruntimeconfig.cache
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\obj\Debug\net6.0\ref\Demo API.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\Autodesk.Forge.dll
+C:\Users\Ashish.Kale\Documents\Dump\Demo API\Demo API\bin\Debug\net6.0\RestSharp.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\appsettings.Development.json
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\appsettings.json
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Demo API.exe
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Demo API.deps.json
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Demo API.runtimeconfig.json
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Demo API.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Demo API.pdb
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Autodesk.Forge.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\RestSharp.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dump\Demo API\Demo API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.csproj.AssemblyReference.cache
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.AssemblyInfoInputs.cache
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.AssemblyInfo.cs
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.csproj.CoreCompileInputs.cache
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.MvcApplicationPartsAssemblyInfo.cs
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.MvcApplicationPartsAssemblyInfo.cache
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets\msbuild.Demo API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets\msbuild.build.Demo API.props
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Demo API.props
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Demo API.props
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\scopedcss\bundle\Demo API.styles.css
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.csproj.CopyComplete
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.dll
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\refint\Demo API.dll
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.pdb
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\Demo API.genruntimeconfig.cache
+D:\Dump\Demo API\Demo API\obj\Debug\net6.0\ref\Demo API.dll
