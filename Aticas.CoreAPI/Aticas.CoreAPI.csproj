@@ -1,0 +1,103 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net60</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+	<PropertyGroup>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<NoWarn>$(NoWarn);1591</NoWarn>
+		<AssemblyVersion>1.0.341.4</AssemblyVersion>
+		<FileVersion>1.0.341.4</FileVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<DotNetCliToolReference Include="Microsoft.Extensions.SecretManager.Tools" Version="2.0.0" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+		<PackageReference Include="Auth0.AuthenticationApi" Version="7.17.4" />
+		<PackageReference Include="Auth0.ManagementApi" Version="7.17.4" />
+		<PackageReference Include="Autodesk.Forge" Version="1.9.7" />
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+		<PackageReference Include="Google.Apis.Auth" Version="1.57.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.5" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.9" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
+		<PackageReference Include="Microsoft.Graph" Version="4.30.0" />
+		<PackageReference Include="Microsoft.Identity.Client" Version="4.44.0" />
+		<PackageReference Include="Microsoft.Identity.Web" Version="1.25.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.3.1" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="7.0.3" />
+	</ItemGroup>
+	<ItemGroup>
+		<None Include="wwwroot\*" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Compile Remove="Controllers\v2\**" />
+	  <Content Remove="Controllers\v2\**" />
+	  <EmbeddedResource Remove="Controllers\v2\**" />
+	  <None Remove="Controllers\v2\**" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Content Remove="wwwroot\android-chrome-192x192.png" />
+	  <Content Remove="wwwroot\android-chrome-512x512.png" />
+	  <Content Remove="wwwroot\apple-touch-icon.png" />
+	  <Content Remove="wwwroot\favicon-16x16.png" />
+	  <Content Remove="wwwroot\favicon-32x32.png" />
+	</ItemGroup>
+	<ItemGroup>
+	  <None Include="..\.editorconfig" Link=".editorconfig" />
+	  <None Include="wwwroot\media\android-chrome-192x192.png">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Include="wwwroot\media\android-chrome-512x512.png">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Include="wwwroot\media\apple-touch-icon.png">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Include="wwwroot\media\favicon-16x16.png">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Include="wwwroot\media\favicon-32x32.png">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Update="wwwroot\css\docs.css">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
+	  <Content Update="wwwroot\favicon.ico">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
+	  <Content Update="wwwroot\media\logo.svg">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="wwwroot\favicon.ico">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Aticas.ConnectorModels\Aticas.ConnectorModels.csproj" />
+	  <ProjectReference Include="..\Aticas.Extensions\Aticas.Extensions.csproj" />
+	  <ProjectReference Include="..\Aticas.IfcReader\Aticas.IfcReader.csproj" />
+	  <ProjectReference Include="..\Aticas.ImageManager\Aticas.ImageManager.csproj" />
+	  <ProjectReference Include="..\Aticas.Microsoft.Database\Aticas.Microsoft.Database.csproj" />
+	  <ProjectReference Include="..\Aticas.Microsoft.Storage\Aticas.Microsoft.Storage.csproj" />
+	  <ProjectReference Include="..\Aticas.ObjectModels\Aticas.ObjectModels.csproj" />
+	  <ProjectReference Include="..\GeometryGymIFC\GeometryGymIFC.csproj" />
+	</ItemGroup>
+
+</Project>
